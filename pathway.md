@@ -15,5 +15,6 @@
 - [ ] CS - pick one of these 
   - [ ] [CS in 4 hours video series](https://frontendmasters.com/courses/computer-science/)
   - [ ] [CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+  - [ ] [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 - [ ] Project 7 - Contribute to open source
 
